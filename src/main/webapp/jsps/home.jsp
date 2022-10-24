@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>QuinceintegratedTechnologies- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla Project.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over millionaires in IT.
+<h1 align="center">Welcome to Quince Visa Project.</h1>
+<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients both in Nigeria, Canada and United states.
+	           We are raising millionaires in IT.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
@@ -37,9 +37,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
                 Landmark Technology, 
 		Toronto, Ontario, Canada
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		integratedquince@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:integratedquince@gmail.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
